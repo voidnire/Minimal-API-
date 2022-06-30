@@ -1,0 +1,15 @@
+﻿global using Dapper;
+global using Flunt.Notifications;
+global using Flunt.Validations;
+global using Microsoft.AspNetCore.Authentication.JwtBearer;
+global using Microsoft.AspNetCore.Mvc;
+global using Microsoft.IdentityModel.Tokens;
+global using MinimalApi2;
+global using MinimalApi2.Models;
+global using MinimalApi2.Services;
+global using Oracle.ManagedDataAccess.Client;
+global using System.Collections.Generic;
+global using System.ComponentModel.DataAnnotations;
+global using System.IdentityModel.Tokens.Jwt;
+global using System.Security.Claims;
+global using System.Text;
